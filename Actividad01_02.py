@@ -3,7 +3,7 @@
 # el productor produce productos cada vez que lo necesita.
 
 # problema:
-# coordinar a los productores y consumidores, para que los productores no produzcan mas items  de los que se pueden 
+# coordinar a los pr|oductores y consumidores, para que los productores no produzcan mas items  de los que se pueden 
 # almacenar en el momento , y los consumidores no adquieran mas items de los que hay disponibles.
 
 import threading
